@@ -1,2 +1,2 @@
 # bluepy_daemon
-consist connection with peripherals
+persistent connection with peripherals
